@@ -1,7 +1,7 @@
 # Sistem Indeks Kepuasan Masyarakat (IKM) — Diskominfo Kabupaten Toba
 
 <p align="center">
-  <img src="./public/img/kominfotoba.png" width="100" alt="Logo Diskominfo Toba">
+  <img src="./public/img/kominfo_toba.png" width="100" alt="Logo Diskominfo Toba">
 </p>
 
 <p align="center">
