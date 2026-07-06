@@ -28,11 +28,11 @@ Berikut adalah beberapa tampilan utama dari Sistem IKM Diskominfo Toba:
 
 | 🖥️ Halaman Utama (Landing Page) | 📝 Kuesioner Survei Dinamis |
 | --- | --- |
-| ![Landing Page Preview](public/img/screenshots/landing_page_preview.png) | ![Survey Form Preview](public/img/screenshots/survey_preview.png) |
+| ![Landing Page Preview](public/img/screenshots/landing_page.png) | ![Survey Form Preview](public/img/screenshots/survey_preview.png) |
 
 | 📊 Dashboard Statistik Admin (Real-Time Analytics) |
 | --- |
-| ![Admin Dashboard Preview](public/img/screenshots/dashboard_preview.png) |
+| ![Admin Dashboard Preview](public/img/screenshots/dashboard.png) |
 
 ---
 
